@@ -1,0 +1,30 @@
+META-INF
+# Arquivos e diretórios compilados
+target/
+
+# Arquivos de dependência Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Arquivos de IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Arquivos de build do Maven
+build/
+bin/
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos de configuração do IntelliJ IDEA
+.idea/
+
+# Arquivos temporários
+*~
+.DS_Store
